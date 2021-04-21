@@ -3,6 +3,7 @@
 Bill Of Material&nbsp;&nbsp;
 @stop
 @section('page-style')
+
 	<style>
 		.column {
 		  float: left;
